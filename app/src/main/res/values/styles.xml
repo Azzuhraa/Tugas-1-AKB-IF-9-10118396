@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="editText">editText
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        </style>
+
+    <style name="Button">Button</style>
+
+    <style name="Text">TextPrimary</style>
+
+    <style name="myCard">mycard</style>
+
+</resources>
